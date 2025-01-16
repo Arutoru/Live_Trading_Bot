@@ -2,7 +2,7 @@
 This is my Live Trading Bot
 
 ### Step 1:  
-- Create the Python environment.  
+- Create the Python environment using the requirements.  
 - Create an OANDA demo account and connect to the API.  
 
 ### Step 2:  
