@@ -49,7 +49,7 @@ This is my Live Trading Bot
 - Develop a bot (`stream_bot`) to execute trades with live prices.  
 
 ### Step 10:  
-- Create a folder named **scraping** to house scripts for data scraping, enabling visualization through a locally created React app.  
+- Create a folder named **scraping** to house scripts for data scraping, enabling visualization through a locally created React app (forex-dash).  
 - Deploy the bot.  
 
 **Note:**  
