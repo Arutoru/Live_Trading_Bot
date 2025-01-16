@@ -2,7 +2,7 @@
 This is my Live Trading Bot
 
 ### Step 1:  
-- Create the Python environment.  
+- Create the Python environment (to activate it "venv\Scripts\activate").  
 - Create an OANDA demo account and connect to the API.  
 
 ### Step 2:  
