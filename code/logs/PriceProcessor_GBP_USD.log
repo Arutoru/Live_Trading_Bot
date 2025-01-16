@@ -1,0 +1,4 @@
+2024-05-24 16:18:47 LogWrapper init() ./logs/PriceProcessor_GBP_USD.log
+2024-05-24 16:18:52 Found price : LiveApiPrice() GBP_USD 1.27485 1.27475 2024-05-24 15:18:52.143250+00:00
+2024-05-24 16:18:57 Done processing price : LiveApiPrice() GBP_USD 1.27485 1.27475 2024-05-24 15:18:52.143250+00:00
+2024-05-24 16:19:01 Found price : LiveApiPrice() GBP_USD 1.27485 1.27475 2024-05-24 15:19:01.310027+00:00
